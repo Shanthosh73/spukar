@@ -1,0 +1,35 @@
+{
+    "name": "spukar",
+    "short_name": "spukar",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Spukar is a company that operates in the compressor field. They specialize in buying and repairing compressors, which are then either sold or given out on rental. The company has a reputation for providing high-quality compressors that are both reliable and efficient. Spukar’s team of experts are well-versed in the latest compressor technologies and are committed to providing their customers with the best possible service. They offer a wide range of compressors to suit different needs and budgets. Whether you’re looking for a compressor for your home or business, Spukar has got you covered. For more information, please visit their website",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
